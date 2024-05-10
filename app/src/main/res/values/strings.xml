@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="hi">Привет</string>
+    <string name="buy">Пока</string>
+    <string name="Start">Старт</string>
+    <string name="Hohlov">Хохлов Андрей РИБО-03-22</string>
+    <string name="variant">3 Вариант</string>
+</resources>
